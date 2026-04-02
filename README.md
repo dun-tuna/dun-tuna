@@ -3,7 +3,7 @@
 > Ethical Hacker | Web Pentester | CTF Player
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Security;CTF+Player;Bug+Bounty+Learner;Always+Learning...&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Offensive+Security;Web+Security;CTF+Player;Bug+Bounty+Learner;Always+Learning...&center=true&width=500&height=45">
 </p>
 
 💻 Passionate about breaking things to understand how they work  
