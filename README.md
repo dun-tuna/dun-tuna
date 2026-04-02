@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Duong
 
-> Cybersecurity Enthusiast | Web Pentester | CTF Player
+> Ethical Hacker | Web Pentester | CTF Player
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Security;CTF+Player;Bug+Bounty+Learner;Always+Learning...&center=true&width=500&height=45">
