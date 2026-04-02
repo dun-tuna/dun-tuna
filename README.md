@@ -58,20 +58,6 @@
 ---
 
 
-# 🏆 Hack The Box Stats
-
-  <img src="https://img.shields.io/badge/HackTheBox-Academy_Student-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/Path-Web_Pentest_Learner-darkgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Offensive_Security-black?style=for-the-badge" />
-
-
----
-
-# 🏴‍☠️ CTF Profiles
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Player-green?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Learner-red?style=for-the-badge)
-
----
 
 # 📫 Contact
 - 📧 Email: duongtran1806ap@gmail.com
